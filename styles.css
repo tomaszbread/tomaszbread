@@ -11,6 +11,9 @@
   -webkit-user-select: none;
   -webkit-touch-callout: none;
 }
+*:focus {
+  outline: none;
+}
 html, body {
   height: 100%;
 }

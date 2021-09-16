@@ -287,7 +287,7 @@ CurculumComponent.ɵfac = function CurculumComponent_Factory(t) { return new (t 
 CurculumComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: CurculumComponent, selectors: [["app-curculum"]], decls: 13, vars: 0, consts: [[1, "invitation", "partial-padding"], [1, "description"], [1, "bio-txt"], [1, "bio"], ["href", "./../../../../assets/pdf/Tomasz_Chlebek_Resume.pdf", "target", "_blank", "download", "Resume_Tomasz_Chlebek.pdf", 2, "width", "90%"], [1, "cv-button"]], template: function CurculumComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "label");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Curculum vitae \uD83D\uDCCB");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Curriculum vitae \uD83D\uDCCB");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span");
