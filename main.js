@@ -769,7 +769,7 @@ HomeSectionComponent.ɵfac = function HomeSectionComponent_Factory(t) { return n
 HomeSectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeSectionComponent, selectors: [["app-home-section"]], decls: 40, vars: 0, consts: [[1, "invitation", "partial-padding"], [1, "description"], [1, "bio"], [1, "description", 2, "padding-bottom", "13px"], [1, "techno"], [1, "chip"]], template: function HomeSectionComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "label");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Hi ! I\u2019m Tomasz \uD83D\uDC4B");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Hi! I\u2019m Tomasz \uD83D\uDC4B");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span");
