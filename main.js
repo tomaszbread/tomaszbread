@@ -752,7 +752,12 @@ class AppService {
                     this.hideAvatar = true;
                 }
                 else {
-                    this.hideAvatar = false;
+                    if (this.isMobile) {
+                        this.hideAvatar = true;
+                    }
+                    else {
+                        this.hideAvatar = false;
+                    }
                 }
             }
         });
