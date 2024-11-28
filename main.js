@@ -208,25 +208,21 @@ class CurculumComponent {
     }
 }
 CurculumComponent.ɵfac = function CurculumComponent_Factory(t) { return new (t || CurculumComponent)(); };
-CurculumComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: CurculumComponent, selectors: [["app-curculum"]], decls: 13, vars: 0, consts: [[1, "invitation", "partial-padding"], [1, "description"], [1, "bio-txt"], [1, "bio"], ["href", "./../../../../assets/pdf/Tomasz_Chlebek_Resume.pdf", "target", "_blank", "download", "Resume_Tomasz_Chlebek.pdf", 2, "width", "90%", "display", "flex", "justify-content", "center"], [1, "cv-button"]], template: function CurculumComponent_Template(rf, ctx) { if (rf & 1) {
+CurculumComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: CurculumComponent, selectors: [["app-curculum"]], decls: 11, vars: 0, consts: [[1, "invitation", "partial-padding"], [1, "description"], [1, "bio-txt"], [1, "bio"], ["href", "./../../../../assets/pdf/Tomasz_Chlebek_Resume.pdf", "target", "_blank", "download", "Resume_Tomasz_Chlebek.pdf", 2, "width", "90%", "display", "flex", "justify-content", "center"], [1, "cv-button"]], template: function CurculumComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "label");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Curriculum vitae \uD83D\uDCCB");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, "Check CV and Contact me");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Explore my professional experience, skills, and achievements. Click below to download my latest CV and learn more about my career path.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Let's talk - I would like invite you to cooperation");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "a", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "button", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "DOWNLOAD PDF ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "a", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "button", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "DOWNLOAD PDF ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
